@@ -1,5 +1,5 @@
 class Variable {
-    static int employee_id = 10; // static varibale :- called with class.variable_name
+    static int employee_id = 10; // static varibale :- called with class.variable_name and saving the memory
     int pincode = 803202; // instance variable
 
     void employee_details(String name) {
